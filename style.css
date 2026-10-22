@@ -1,0 +1,9 @@
+body { background: #c7b0f7; color: #361c3b; }
+.hero { background: #b96fea; color: #fff; }
+.nav-link.active { font-weight: 600; border-bottom: 2px solid #f1eff4; }
+
+.gambar { height: 140px; display: flex; align-items: flex-end; padding: 12px; color: #eeecf0; font-weight: 600; }
+.gambar.besar { height: 280px; border-radius: 12px; }
+.warna1 { background: #f3a0eb; }
+.warna2 { background: #db0771; }
+.warna3 { background: #ed069d; }
